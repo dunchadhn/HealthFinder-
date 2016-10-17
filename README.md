@@ -23,9 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='your-local-link-to-gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [GIPHY Capture](https://itunes.apple.com/us/app/gifgrabber/id668208984?mt=12).
+<iframe src="//giphy.com/embed/H6mb3xEPCvY2c" width="480" height="853" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/H6mb3xEPCvY2c">via GIPHY</a></p>
 
 ## Notes
 

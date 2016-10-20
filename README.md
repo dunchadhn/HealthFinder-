@@ -8,10 +8,10 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User can search for HealthFinder topics using a UISearchBar
-- [ ] User can show and hide filter controls using a UISwitch
-- [ ] User can use a UIPickerView to select an age
-- [ ] Delegates/Protocols are used to update the searching functionality
+- [X] User can search for HealthFinder topics using a UISearchBar
+- [X] User can show and hide filter controls using a UISwitch
+- [X] User can use a UIPickerView to select an age
+- [X] Delegates/Protocols are used to update the searching functionality
 
 The following **optional** features are implemented:
 - [ ] Disable and clear the searchBar appropriately
@@ -23,9 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='your-local-link-to-gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [GIPHY Capture](https://itunes.apple.com/us/app/gifgrabber/id668208984?mt=12).
+<iframe src="//giphy.com/embed/H6mb3xEPCvY2c" width="480" height="853" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/H6mb3xEPCvY2c">via GIPHY</a></p>
 
 ## Notes
 
